@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
+
+
 :root {
     --primary-color: #FBBF24;
     --black: #333333;
@@ -76,4 +78,11 @@ footer {
 footer p {
     max-width: var(--width-break);
     margin: auto;
+    font-style: italic;
+    font-size: large f
+}
+
+.footer-header {
+    font-style: oblique;
+
 }
